@@ -1,0 +1,89 @@
+
+body{
+  margin:20px;  
+  padding:20px;
+  background-color: white;	
+	font-family:"Roboto",sans-serif;
+	font-size:25;
+  	font-weight: 700;
+  	font-style: normal;
+}
+	
+.outer{
+   text-align: center;
+   padding:20px;
+}
+.page{
+   width:800px;
+   height:95vh;
+   display: inline-block;
+   text-align:left;
+   padding:10px;
+   background-color: white;
+}
+a{
+  color:black;
+  font-size:16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right:50px;
+}
+
+		
+	
+	.topofpage{
+		display:flex;
+		flex-direction:row;
+		flex-wrap:nowrap;
+		justify-content:space-between;
+		height:100px;
+		align-items: center;
+	}
+	
+	.logo{
+		max-width:200px;
+		
+	}
+
+.navbar{
+  font-family: Roboto;
+   margin-left:20px;
+   margin-top:20px;
+   text-align: left;
+	}
+	
+	
+.search{
+		
+}
+
+
+.logoimg{
+	width:50%;
+}
+
+.hero{
+	width:100%;
+}
+	
+.img1{
+	width:100%;
+}
+
+.img2{
+	width:100%;
+}
+
+.img3{
+	width:100%;
+}
+
+.img6{
+	width:100%;
+}
+
+.img7{
+	width:100%;
+}@charset "UTF-8";
+/* CSS Document */
+
